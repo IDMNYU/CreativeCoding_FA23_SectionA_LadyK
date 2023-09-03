@@ -88,7 +88,7 @@
 	<td> 9 </td>
 	<td valign="top"><a href="week_9_detail.md">Nov 1</a>	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> 
 	</td>
-	<td valign="top"><a href="week_9_detail.md">Nov 6</a><br><br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 6</a><br>[Midterm Self Assessment](Mid_Term_Self_Assessment.md) Due 18:00 <br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
 		Complete Refinements to Project 1 </a><br>
 	</td>
