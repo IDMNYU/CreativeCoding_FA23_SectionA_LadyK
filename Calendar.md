@@ -73,34 +73,33 @@
 	<td> 7 </td>
 	<td valign="top"><a href="week_7_detail.md">Oct 18</a><br>In class challenges <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
-    <td> </td>
-	<td valign = "top"> <a href="week_7_detail.md">Oct 23</a><br> In class challenges <br>
+	<td valign = "top"> <a href="week_7_detail.md">Oct 23</a><br> Class Assignments <br>
 	<a href = "Project_1.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <td>8</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 25</a><br> 
-	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong>
+	Class assignments
 	</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 30</a><br>
 	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">Nov 1</a><br>Images + Pixels
+	<td valign="top"><a href="week_9_detail.md">Nov 1</a>	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> 
 	</td>
-	<td valign="top"><a href="week_9_detail.md">Nov 6</a><br>Images + Data	<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+	<td valign="top"><a href="week_9_detail.md">Nov 6</a><br><br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
 		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
 		Complete Refinements to Project 1 </a><br>
 	</td>
 </tr>
 <tr>
 	<td>10</td>
-	<td valign="top"><a href="week_10_detail.md"> Nov 8</a><br>Text & Strings<br>
+	<td valign="top"><a href="week_10_detail.md"> Nov 8</a><br> Images + Data<br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a> <br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>
-	<td valign="top"><a href="week_10_detail.md">Nov 13</a><br> Text & String Manipulations	 <br>
+	<td valign="top"><a href="week_10_detail.md">Nov 13</a><br> Text & Strings <br>Text & String Manipulations	 <br>
 		<a href = "Sketch_4.md"> Work on Sketch 4 </a><br>
 		<a href = "Mid_Term_Self_Assessment.md">Submit the Midterm Self Assessment </a><br>
 	</td>	
