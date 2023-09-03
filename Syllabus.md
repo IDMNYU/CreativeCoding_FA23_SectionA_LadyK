@@ -18,6 +18,7 @@ Creative Coding Syllabus &amp; Class repo
 
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity. Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly. By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations, graphical user interfaces, games and user interfaces. Interactivity will be introduced and discussed throughout.
 
+
 ## Program Goals
 
 This course reinforces the IDM Program goals by
@@ -53,6 +54,13 @@ Assessment will occur by reviewing weekly coding assignments & challenges, proje
 The assignments are your opportunity to put your skills to the test. They're designed to test and deepen your knowledge while giving me valuable information about how you're progressing in the class. <a href = "https://www.youtube.com/watch?v=lRtV-ugIT0k">Finished is better than perfect. </a> An attempt at them is better than nothing at all. Progress is better than perfect. I am consistently look at your progress and evaluating it.
 
 Students will evaluate their own progressed in a course in two ways: 1) A course evaluation form, which will be developed based on the course’s individual objectives. 2) Students will participate in a self reflection assignment around [midterms](Mid_Term_Self_Assessment.md) and [at the end of the semester](Final_Deliverables.md), or as otherwise noted. This written evaluation is worth 15 points and to be turned into me as a separate document.
+
+## Programming Experience
+This is an introductory course to creative coding, code that results in a visual, auditorial and even haptic outputs and forms of expression.
+
+Students that do not have any programming experience will be pushed to learn the basics of programming and will experiment with visual and auditorial outputs and forms of expression. As the semester progresses I expect students to reiterate their knowledge of the basics while exploring visual language and communication.
+
+Students that have programming experience will be pushed to explore the visual language of communication and output. They are expected to experiment and to iterate their work to create work for their portfolio. They are expected to demonstrate a mastery of programming as the semeter progresses. They are expected to push themselves aesthetically and conceptually. The visuals and output are paramount; It is less about the speed of the sorting algorithms or any kind of wizardry of algorithm. Yet, a sophistication and craft of programming is expected.
 
 
 ## Course Requirements - Special Things to Note:
