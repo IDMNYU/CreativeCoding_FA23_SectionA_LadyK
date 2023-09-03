@@ -112,8 +112,8 @@
 	</td>
 </tr>
 <tr>
-	<td> Thanksgiving break </td>
 	<td> Nov 22 </td>
+	<td>Thanksgiving break  </td>
 	<td> Thanksgiving break </td>
 	</tr>
 <tr>
