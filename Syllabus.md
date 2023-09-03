@@ -2,12 +2,8 @@
 Creative Coding Syllabus &amp; Class repo
 
 
-MoWe 2:00PM-3:50PM
-Dates
-09/05/2023 - 12/15/2023
-Location
-370 Jay St Room 312 Loc: Brooklyn Campus
-
+* **DM-UY 1133 A Creative Coding** 
+* **370 Jay Street, Room 312, Brooklyn Campus
 * **Professor: Katherine Bennett**
 * **Email: Katherine.Bennett@nyu.edu** 
 * [Slack Workspace](https://creativecodin-cao5309.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
