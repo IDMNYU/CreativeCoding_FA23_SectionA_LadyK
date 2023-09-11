@@ -50,7 +50,7 @@
 	<!-- day Tues -->
  	<td valign="top"> 
  		<li> <a href = "https://slack.com/"> download Slack </a></li>
- 		<li><a href = "https://join.slack.com/t/creativecodin-cao5309/shared_invite/zt-22il13m7q-CI_QFAQQvBjOtQhXVcFFmA">Join the Slack workspace for this course. Make sure your workspace name is the name to address you by</li> </a>
+ 		<li><a href = "https://join.slack.com/t/creativecodin-cmz5527/shared_invite/zt-22u79g95s-l4oFoR~nGfoFzewv1Oux8g">Join the Slack workspace for this course. Make sure your workspace name is the name to address you by</li> </a>
  		<li> <a href = "https://openprocessing.org/join/EF3539"> Join our workspace on openProcessing via this invitation link.</a> This is critical as this is where you will be submitting your homework.</li>
  		<li>Fill out the <a href ="https://forms.gle/gdfkrkvFfXc6FTN49" >Google Survey</a> if you have not already
  		<li>Get a <a href = https://github.com/>Github account</a></li>
