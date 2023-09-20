@@ -6,7 +6,7 @@
 ### Interactive Repetition & Drawing: Modularity, Pattern
 
 
-#### Step 1, is due before class on Sept 25
+#### Step 1, is due after class on Sept 25
 #### Step 2: Oct 2nd 18:00  <-- this submission is graded
         
 ##### Step 1:
@@ -21,12 +21,13 @@
 
  E. Then call that function multiple times passing different values to it each time. (You can create parameters for color, width, height, etc)
 
- F. Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+
 
 
 
 ##### Step 2:  <-- this submission is graded
 
+ F. Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
 
