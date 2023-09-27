@@ -27,17 +27,17 @@
 
 ##### Step 2:  <-- this submission is graded
 
- F. Now, call that function inside a simple for-loop. Use the for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+ F. Now, call that function inside a simple for-loop. Use the double for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
 
- How you structure your for-loops (calling this stamp), will control how that pattern is made.
+ How you structure your double for-loops (calling this stamp), will control how that pattern is made.
 
  You are to create 5 DRASTICALLY different patterns, using the same cluster of shapes. Focus on trying to control the location of each stamp, by manipulating those location coordinates. <strong>Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like.</strong> _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_
 
  Variables, loops, and exit conditions are your key. Play and experiment here. Try different things out. Play with your operators in your for-loop (+, -, *, /), as well as how much you are operating by (ie, +1, -2, /.5, *5.5). 
 
- What happens when you throw an if-statement within the for-loop? <---- Try it out!
+ What happens when you throw an if-statement within the double for-loop? <---- Try it out!
 
  EXPERIMENT WITH YOUR OPERATORS, LOOP CONDITIONS, & IF-STATEMENTS
 
