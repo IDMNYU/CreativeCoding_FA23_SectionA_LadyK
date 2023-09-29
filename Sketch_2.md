@@ -27,9 +27,9 @@
 
 ##### Step 2:  <-- this submission is graded
 
- F. Now, call that function inside a simple double for-loop. Use the double for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+ F. Now, call that function inside a double for-loop. Use the double for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
 
- Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
+ Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge. Work on getting different spacing between the pattern calls.
 
  How you structure your double for-loops (calling this stamp), will control how that pattern is made. See the image above.
 
