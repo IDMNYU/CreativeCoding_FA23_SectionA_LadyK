@@ -22,16 +22,16 @@
  E. Then call that function multiple times passing different values to it each time. (You can create parameters for color, width, height, etc)
 
 
-
+![Inspired by Ancient Egyptian colors and tiles](http://1.bp.blogspot.com/-s3ks8j1jw6M/UASekhqS0BI/AAAAAAAAkRQ/oIW8a5qraS0/s1600/Egypt-047.jpg)
 
 
 ##### Step 2:  <-- this submission is graded
 
- F. Now, call that function inside a simple for-loop. Use the double for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
+ F. Now, call that function inside a simple double for-loop. Use the double for-loop to create multiple instances of the shape cluster. But, they cannot appear on top of one another and they must appear on the sketch (ie, no background update)
 
  Use the previously created arrangement of shapes, as the stamp that you will use to create different patterns across the sketch window. You will call this stamp multiple times. From this multitude of calls, a pattern will emerge.
 
- How you structure your double for-loops (calling this stamp), will control how that pattern is made.
+ How you structure your double for-loops (calling this stamp), will control how that pattern is made. See the image above.
 
  You are to create 5 DRASTICALLY different patterns, using the same cluster of shapes. Focus on trying to control the location of each stamp, by manipulating those location coordinates. <strong>Start with creating one grid. Then in subsequent (and different patterns), manipulate that grid so that it is less grid-like.</strong> _How can you start to deviate from a grid? How can that grid be transformed into a cone? Or strips? Can you skip every other one?_
 
@@ -51,6 +51,8 @@
 
 
  Reference: 
+
+ [Shentong Yu] (https://openprocessing.org/sketch/1686211)
 
  [Connor Hester (previous student)](https://openprocessing.org/sketch/971975)
 
