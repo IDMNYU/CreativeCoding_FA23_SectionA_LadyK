@@ -8,13 +8,13 @@
 ####  Due October 11 18:00
 
 
-Using a pattern created in sketch 2, how can you use it as a drawing tool/instrument? What if it that pattern was one bristle on a brush? A brush has multiple bristles on it. Think about each of those bristles touching the canvas with one stroke. What if three (or simply multiple) bristles touched the canvas at one time?
+Using a pattern created in sketch 2 (which uses double for-loops and if statements), how can you use it as a drawing tool/instrument? What if it that pattern was one bristle on a brush? A brush has multiple bristles on it. Think about each of those bristles touching the canvas with one stroke. What if three (or simply multiple) bristles touched the canvas at one time?
 
-Using the pattern that you created in Sketch 2, use it in this sketch. You will build off of that code. 
+Using a pattern that you created in Sketch 2, use it in this sketch. You will build off of that code. 
 
-How can you create multiple instances of that pattern, with each one VARYING slightly from the last? Now is the time to use your loops, if-statements, functions AND MATRIX TRANSFORMATIONS
+How can you create multiple instances of that pattern, with each one VARYING slightly from the last, not using the draw loop? Now is the time to use your for-loops, if-statements, functions AND MATRIX TRANSFORMATIONS
 
-The goal is to create multiple patterns, on ONE input. How can each pattern have a unique location on the screen, so that they are not all drawn on top of each other? You may NOT use random to place your shapes locations. You may not use the power of the draw loop to create multiples. Instead, use your event listeners.
+The goal is to create multiple patterns, on ONE input. *The multiples should happen from your for-loop, not your draw loops.* How can each pattern have a unique location on the screen, so that they are not all drawn on top of each other? You may NOT use random to place your shapes locations. You may not use the power of the draw loop to create multiples. Instead, use your event listeners.
 
 Matrix transformations (see the reference), variables, loops and if-statements are your key ingredients.
 
