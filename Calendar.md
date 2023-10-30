@@ -63,18 +63,18 @@
 		OOP <br>
 		Methods <br>
 		Strategies for coding <br>
-	 <a href = "Project_1.md"> Work on Project 1 </a> <br>
+	 <a href = "MidTermProject.md"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo</td>
 	<td valign="top"><a href="week_6_detail.md">Oct 16</a><br>  <br>
-	<a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<a href = "MidTermProject.mdd"> Work on Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <tr>
 	<td> 7 </td>
-	<td valign="top"><a href="week_7_detail.md">Oct 18</a><br>In class challenges <br><a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<td valign="top"><a href="week_7_detail.md">Oct 18</a><br>In class challenges <br><a href = "MidTermProject.md"> Work on Midterm Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 	<td valign = "top"> <a href="week_7_detail.md">Oct 23</a><br> Class Assignments <br>
-	<a href = "Project_1.md"> Work on Project 1 </a> <br>
+	<a href = "MidTermProject.md"> Work on Midterm Project 1 </a> <br>
         Push your progress to your GitHub repo </td>
 </tr>
 <td>8</td>
@@ -82,15 +82,15 @@
 	Class assignments
 	</td>
 	<td valign="top"><a href="week_8_detail.md">Oct 30</a><br>
-	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> </td>
+	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> </td>
 </tr>
 <tr>
 	<td> 9 </td>
-	<td valign="top"><a href="week_9_detail.md">Nov 1</a>	<strong>**MidTerm Presentations** <br>Project 1 Feedback <br></strong> 
+	<td valign="top"><a href="week_9_detail.md">Nov 1</a>	<strong>**MidTerm Presentations** <br>Midterm Project 1 Feedback <br></strong> 
 	</td>
-	<td valign="top"><a href="week_9_detail.md">Nov 6</a><br>[Midterm Self Assessment](Mid_Term_Self_Assessment.md) Due 18:00 <br>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
-		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment </a><br>
-		Complete Refinements to Project 1 </a><br>
+	<td valign="top"><a href="week_9_detail.md">Nov 6</a>Images + Pixels<br><a href = "RoundTable.md">Work on Roundtable for Final Projects for homework</a> <br>
+		<a href = "Mid_Term_Self_Assessment.md"> Complete the Mid-Term Self-Assessment  Due 18:00 </a><br>
+		Complete Refinements to Midterm Project 1 </a><br>
 	</td>
 </tr>
 <tr>
