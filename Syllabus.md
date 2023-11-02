@@ -9,7 +9,8 @@ Creative Coding Syllabus &amp; Class repo
 * [Slack Workspace](https://creativecodin-cmz5527.slack.com) (Note: you must first JOIN the slack workspace to access it. You can find the link to join in week 1's weekly breakout page or the email I sent)
 * [openProcessing Workspace (where homework is submitted)](https://openprocessing.org/class/86978) You must first join openProcessing. See the email I sent in the beginning of the semseter and/or the invite in week 1's weekly breakout.
 * **Office Hours: Monday (& sometimes Wednesday) 4-5pm EST, Message me in Slack to give me a heads up. First Come, First Serve. Otherwise, I can meet briefly before class. Please message me in advance to set up.**
-* **Creative Coding GA is: TBA**
+* **Creative Coding GA is: Thaigo Hersan. He is available Tue 5pm-7pm and Wed: 10am-12pm
+in the IDM Grad Lab (325A). [Book at appointment with him at this link](https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ3moD_X2crZsxlVTrTwf38NZ1DIx1_jiNNXBZr9DIMrJhcMZqTmrMTX078jAUz2wJf9CMtTej2U)**
 
 
 # Creative Coding: An Intro to Creative Coding
