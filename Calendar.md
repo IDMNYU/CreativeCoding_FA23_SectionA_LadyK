@@ -142,7 +142,7 @@
 </tr>
 <tr><td>EXAM WEEK</td>	
 	<td valign="top">Dec 19<br>Submit Final Materials + Documents <br> <strong>ALL Final Code Submissions Due by 12:00 EST to openProcessing & Your Github repo for the final project<br> <a href = "Final_Deliverables.md">Final Self Assessment DUE by 16:00<br>
-	Letter to the Next Cohort DUE by 14:00.</td> </a><td valign="top"> <br>Have a great break! Stay safe and healthy!<br></strong> 
+	Letter to the Next Cohort DUE by ~~14:00~~ 16:00.</td> </a><td valign="top"> <br>Have a great break! Stay safe and healthy!<br></strong> 
 	</td>
 </tr>	
 </table>
