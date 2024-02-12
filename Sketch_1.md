@@ -1,12 +1,12 @@
 # DM-UY 1133-A Creative Coding
-##### Fall 2023 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
+##### Spring 2024 • Katherine Bennett • Monday & Wednesdays • 14:00-15:50
 
 ## Sketch 1 Composition
 
-#### Due Sept 20 18:00 EST 
+#### Due Feb 5 18:00 EST 
 #### Submit on openProcessing (check Slack announcement channel for invitation and syllabus for URL)
 			
-_Come to class on Sept 18th with the sketch started and we will demo how to submit it together in class_
+_Come to class on Jan 31st with the sketch started and we will demo how to submit it together in class_
 
 Take a meaty crop of Julie Mehretu's painting - _A Renegade Excavation_. See Slack for the image. Do not take a crop of the corners! Take a crop from the central area, one that is more dense with a diversity of shapes.
 
@@ -34,5 +34,5 @@ Recommendations: Do not do this in one sitting. Take breaks. Work on this in sev
 * [Useful resources for curves (switch tab to playground)](http://yining1023.github.io/p5PlayGround/) 
 * [Tutorial on Curves](https://processing.org/tutorials/curves/)
 * Drawing out your composition on graph paper first, will help you understand coordinates. Make the top left corner (0, 0)
-* Creating an interactive cross-hairs (see example sketches given in class)
+* Creating an interactive cross-hairs (see example sketches given in class and the Slack channel Code From Class)
 
